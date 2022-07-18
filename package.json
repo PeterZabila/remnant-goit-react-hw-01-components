@@ -1,5 +1,5 @@
 {
-  "homepage": "https://peterzabila.github.io/1st-Rapp/",
+  "homepage": "https://peterzabila.github.io/goit-react-hw-01-components/",
   "private": true,
   "workspaces": [
     "packages/*",

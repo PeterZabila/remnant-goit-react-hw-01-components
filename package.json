@@ -1,4 +1,5 @@
 {
+  "homepage": "https://peterzabila.github.io/1st-Rapp/",
   "private": true,
   "workspaces": [
     "packages/*",
